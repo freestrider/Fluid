@@ -6,3 +6,6 @@ Also includes particle based visualisation
 
 <img width="760" height="759" alt="image" src="https://github.com/user-attachments/assets/855f437b-1c99-41eb-b9c2-3851816d7a48" />
 
+Also generates a plot of certain data and finds vortex shedding rate
+
+<img width="1189" height="628" alt="image" src="https://github.com/user-attachments/assets/5c66b093-5dea-4620-b6c4-92a344d20bc0" />
